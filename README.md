@@ -2,7 +2,7 @@
 Jeopardy like app built using pure python
 
 1. Install packages in requirements.txt
-2. To run the application type: python simpler_table.py
+2. To run the application type: python simpler_table.py (it might take a few seconds to spin it up)
 3. To test out application
    -- Click on any dollar amount under any category
    
